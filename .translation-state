@@ -1,0 +1,489 @@
+{
+  "LastProcessedCommit": "1088806d56f13ff13d6d05a9e4472d930f364801",
+  "LastTranslatedCommit": "77c2ebb7e27340149a515efcf66594ec33214dc5",
+  "Items": {
+    "5eac3f12f94f18d6da8d5191fbc2087b8baa461e": {
+      "FileHash": "5eac3f12f94f18d6da8d5191fbc2087b8baa461e",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\1-aadp_onboarding_process-v3.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\1-aadp_onboarding_process-v3.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "0478b1d6b50ed08e780f0de7ba57e26d9a653c70": {
+      "FileHash": "0478b1d6b50ed08e780f0de7ba57e26d9a653c70",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\2-aadp_onboarding_phases-v3.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\2-aadp_onboarding_phases-v3.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "37eebe7c7d8e52eb31e73bd024985eac7486d0a3": {
+      "FileHash": "37eebe7c7d8e52eb31e73bd024985eac7486d0a3",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\4-aadp_assess_phase-v3.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\4-aadp_assess_phase-v3.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3": {
+      "FileHash": "f0db5300f58aef37da4c0f87bc02e14cbd2c51f3",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Enable_phase_Intune_11-20-15.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Enable_phase_Intune_11-20-15.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "989a623c0d4d648a6411d300d24e7b166b79dcc5": {
+      "FileHash": "989a623c0d4d648a6411d300d24e7b166b79dcc5",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Intune_assess_phase_9-15-15.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Intune_assess_phase_9-15-15.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "468d344e2a354c889a0b77b3f0a7796d27208641": {
+      "FileHash": "468d344e2a354c889a0b77b3f0a7796d27208641",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Intune_enable_phase_core_9-15-15.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Intune_enable_phase_core_9-15-15.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "2bc0c71f97011edd2d72fb6191548a27ce19949c": {
+      "FileHash": "2bc0c71f97011edd2d72fb6191548a27ce19949c",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Intune_enable_phase_sccm_9-15-15.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Intune_enable_phase_sccm_9-15-15.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "25e1a4520e0474db9a5e98dbd44469f260cadae3": {
+      "FileHash": "25e1a4520e0474db9a5e98dbd44469f260cadae3",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Intune_enable_phase_standalone_9-15-15.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Intune_enable_phase_standalone_9-15-15.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "f0021622ea4a945d276e049e1f53980ef5bbcb47": {
+      "FileHash": "f0021622ea4a945d276e049e1f53980ef5bbcb47",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Intune_initiate_phase_9-15-15_v2.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Intune_initiate_phase_9-15-15_v2.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "01dceb32e182d5a32c095ee441855d58848f2ef2": {
+      "FileHash": "01dceb32e182d5a32c095ee441855d58848f2ef2",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Intune_onboarding_phases_9-15-15.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Intune_onboarding_phases_9-15-15.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "b884f9b50170025979216b2a434540566414442a": {
+      "FileHash": "b884f9b50170025979216b2a434540566414442a",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Intune_onboarding_process_10-7-15_v2.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Intune_onboarding_process_10-7-15_v2.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "b05f0f8dc9624d145b8b9bce226458a437fc1059": {
+      "FileHash": "b05f0f8dc9624d145b8b9bce226458a437fc1059",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Intune_onboarding_process_9-15-15.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Intune_onboarding_process_9-15-15.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "f333254dcf8caec6a8f47f282b8f9e82fed06ddc": {
+      "FileHash": "f333254dcf8caec6a8f47f282b8f9e82fed06ddc",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_enable_phase_2.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_enable_phase_2.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "584806962f35cf46cec7a9841fa4ab6ff7d7d5f5",
+      "TargetFilePath": "oltest_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_enable_phase_2.png",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "64648bbfd6aba6c1987ea9a7cb5ba4f6bf958311": {
+      "FileHash": "64648bbfd6aba6c1987ea9a7cb5ba4f6bf958311",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_initiate_phase_1.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_initiate_phase_1.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "584806962f35cf46cec7a9841fa4ab6ff7d7d5f5",
+      "TargetFilePath": "oltest_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_initiate_phase_1.png",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "d1e213fe38089e6c98e3b9ee3982becd98dd9eb5": {
+      "FileHash": "d1e213fe38089e6c98e3b9ee3982becd98dd9eb5",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_remediate_phase_1.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_remediate_phase_1.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "584806962f35cf46cec7a9841fa4ab6ff7d7d5f5",
+      "TargetFilePath": "oltest_ems\\v1\\Image\\Microsoft_Azure_AD_Premium_remediate_phase_1.png",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "2e96017cee5dfb3a87d86e56fde978d6260c7ff5": {
+      "FileHash": "2e96017cee5dfb3a87d86e56fde978d6260c7ff5",
+      "SourceFileCommit": "062fba0de5e4083e8a20175aa770a339bd6ee496",
+      "SourceFilePath": "oltest_ems\\v1\\Image\\Microsoft_Intune_onboarding_remediate_phase_1.png",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Image\\Microsoft_Intune_onboarding_remediate_phase_1.png"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "584806962f35cf46cec7a9841fa4ab6ff7d7d5f5",
+      "TargetFilePath": "oltest_ems\\v1\\Image\\Microsoft_Intune_onboarding_remediate_phase_1.png",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "48cfedc38132a724628e4d5eaa0e00c8326d65e8": {
+      "FileHash": "48cfedc38132a724628e4d5eaa0e00c8326d65e8",
+      "SourceFileCommit": "64c1220c3f2752d04ea9ba0657a098a1529832d0",
+      "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Active_Directory_Premium.md",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Active_Directory_Premium.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "77c2ebb7e27340149a515efcf66594ec33214dc5",
+      "TargetFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Active_Directory_Premium.md",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "8192039d457a28fce44cae1ae750827fdc1cdd6a": {
+      "FileHash": "8192039d457a28fce44cae1ae750827fdc1cdd6a",
+      "SourceFileCommit": "64c1220c3f2752d04ea9ba0657a098a1529832d0",
+      "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Rights_Management.md",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Rights_Management.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "77c2ebb7e27340149a515efcf66594ec33214dc5",
+      "TargetFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Rights_Management.md",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "9320007a6c2e404e8829e66dece0fa3a7378f073": {
+      "FileHash": "9320007a6c2e404e8829e66dece0fa3a7378f073",
+      "SourceFileCommit": "64c1220c3f2752d04ea9ba0657a098a1529832d0",
+      "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Enterprise_Mobility_Suite.md",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Enterprise_Mobility_Suite.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "77c2ebb7e27340149a515efcf66594ec33214dc5",
+      "TargetFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Enterprise_Mobility_Suite.md",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "b1699225c02057b3dba0f821c3ee78592eb43c16": {
+      "FileHash": "b1699225c02057b3dba0f821c3ee78592eb43c16",
+      "SourceFileCommit": "64c1220c3f2752d04ea9ba0657a098a1529832d0",
+      "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Intune.md",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Intune.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "77c2ebb7e27340149a515efcf66594ec33214dc5",
+      "TargetFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Intune.md",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "0f404030cdad3d9ebdc4150c4b5141e7cdc87220": {
+      "FileHash": "0f404030cdad3d9ebdc4150c4b5141e7cdc87220",
+      "SourceFileCommit": "64c1220c3f2752d04ea9ba0657a098a1529832d0",
+      "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "77c2ebb7e27340149a515efcf66594ec33214dc5",
+      "TargetFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "5ecc82eaab94a1d8debd346acb4d48628444c85b": {
+      "FileHash": "5ecc82eaab94a1d8debd346acb4d48628444c85b",
+      "SourceFileCommit": "64c1220c3f2752d04ea9ba0657a098a1529832d0",
+      "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "77c2ebb7e27340149a515efcf66594ec33214dc5",
+      "TargetFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "07d28487db7c5128d9b2e6e74acb7f9000e76f39": {
+      "FileHash": "07d28487db7c5128d9b2e6e74acb7f9000e76f39",
+      "SourceFileCommit": "64c1220c3f2752d04ea9ba0657a098a1529832d0",
+      "SourceFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Intune.md",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Intune.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": "77c2ebb7e27340149a515efcf66594ec33214dc5",
+      "TargetFilePath": "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Intune.md",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    }
+  }
+}
